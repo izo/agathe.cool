@@ -19,13 +19,10 @@ name = "Agathe"
         title = "E-mail"
         url = "mailto:salut@agathe.cool"
 
-    [[params.links]]
-        icon = "github"
-        title = "Github"
-        url = "https://github.com/"
+
 
     [[params.links]]
-        icon = "twitter"
-        title = "Twitter"
-        url = "https://twitter.com/"
+        icon = "linkedin"
+        title = "Linkedin"
+        url = "https://www.linkedin.com/in/agatheplus/"
       
