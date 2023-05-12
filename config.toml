@@ -1,7 +1,7 @@
 baseURL = "https://www.agathe.cool"
 languageCode = "fr-fr"
-title = "Agathe Vuachet - DA"
-theme = "hallo-cool"
+title = "Agathe Vuachet - Ui Designer"
+theme = "hallo"
 defaultContentLanguage = "fr"
 
 [Author]
@@ -12,7 +12,7 @@ name = "Agathe"
 
 
 [params]
-
+  greeting = "Greetings!"
     [[params.links]]
         iconset = "fas"
         icon = "envelope"
@@ -26,3 +26,8 @@ name = "Agathe"
         title = "Linkedin"
         url = "https://www.linkedin.com/in/agatheplus/"
       
+      [params.colors]
+      background = "#81c6ff"
+      foreground = "#edf7ff"
+      hover = "#ffba82"
+ 
